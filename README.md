@@ -2,6 +2,8 @@
 
 Introducing our multiplatform academic application, a revolutionary tool designed to redefine the way students engage with educational resources. With a strong focus on accessibility, interactivity, and security, our application aims to provide a comprehensive and seamless learning experience for students and educators alike.
 
+   ![2](https://github.com/404rakshit/edu-manage/assets/128210165/1b76d2c6-3ade-4d3a-8f39-759160cf49eb)
+   
 ## Deployment
 
 - **Frontend Deployed** on [Vercel](https://edu-manage-theta.vercel.app/)
@@ -93,6 +95,14 @@ Follow these steps to set up and run the application locally:
 7. **Open in Your Browser:** 
    Open your browser and navigate to `http://localhost:3000` to access the client.
    Open a preview with Android Studio or Install Expo Go on your mobile and get a preview for the application.
+
+### Client Preview
+   ![image](https://github.com/404rakshit/edu-manage/assets/128210165/a3720632-cca0-4f72-8c17-bea9271ae5fc)
+
+### App Preview
+   ![1](https://github.com/404rakshit/edu-manage/assets/128210165/a464680a-681b-4c49-a665-2b1c45fce12b)
+
+
 
 ## Acknowledgments
 
